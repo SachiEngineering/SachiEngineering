@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachi Rajadnya</h1>
-<h3 align="center">An ECE grad student at Purdue and a PM at General Motors</h3>
+<h3 align="center">An ECE grad student at Purdue, DEI leader, and RTC Mentor</h3>
 
 - 🔭 I’m currently working on **my Netflix x Formation Fellowship and some side projects to come ;)**
 
