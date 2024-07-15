@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **DSA and Systems Design**
 
+- 💬 Ask me about **technical content creation, DEI, or my CS journey!**
+
 - 📫 How to reach me **srajadny@purdue.edu**
 
 <h3 align="left">Connect with me:</h3>
