@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachi Rajadnya</h1>
 <h3 align="center">An ECE grad student at Purdue, DEI leader, and RTC Mentor</h3>
 
-- 🔭 I’m currently working on **my Netflix x Formation Fellowship and some side projects to come ;)**
+- 🔭 I’m currently working at **Apple as an Engineering Program Manager.**
 
-- 🌱 I’m currently learning **DSA and Systems Design**
+- 🌱 I’m currently learning **Tensorflow for AI and ML/DL.**
 
-- 💬 Ask me about **technical content creation, DEI, or my CS journey!**
+- 💬 Ask me about **my CS journey as an EPM.**
 
-- 📫 How to reach me **srajadny@purdue.edu**
+- 📫 Feel free to connect with me on socials. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
